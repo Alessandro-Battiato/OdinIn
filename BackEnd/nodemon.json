@@ -1,0 +1,6 @@
+{
+  "watch": ["."],
+  "ext": "ts,json",
+  "ignore": ["dist", "__tests__"],
+  "exec": "tsx server.ts"
+}
